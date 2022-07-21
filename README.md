@@ -1,7 +1,7 @@
 ## CSS練習用
 ### 01
 参考YouTube(https://www.youtube.com/watch?v=daAVTmsMXeI)
-https://user-images.githubusercontent.com/62339786/180260512-b02fca15-00f3-4289-bd1e-a6e42f6bce93.mov
+https://user-images.githubusercontent.com/62339786/180260512-b02fca15-00f3-4289-bd1e-a6e42f6bce93.mp4
 
 
 
